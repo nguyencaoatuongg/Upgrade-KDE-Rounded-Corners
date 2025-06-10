@@ -80,6 +80,11 @@ I maintain this effect on KDE Plasma desktop version 5.27 to 6.3+ in various Lin
   <img src="https://contrib.rocks/image?repo=matinlotfali/KDE-Rounded-Corners" />
 </a>
 
+# Install my shell file
+'''sh
+[Tutorial](https://github.com/nguyencaoatuongg/shell-scripts-tutorial)
+```
+
 # How to install using unofficial repositories
 
 Copr package at [matinlotfali/KDE-Rounded-Corners](https://copr.fedorainfracloud.org/coprs/matinlotfali/KDE-Rounded-Corners)
