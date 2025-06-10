@@ -81,9 +81,7 @@ I maintain this effect on KDE Plasma desktop version 5.27 to 6.3+ in various Lin
 </a>
 
 # Install my shell file
-```sh
 [Tutorial](https://github.com/nguyencaoatuongg/shell-scripts-tutorial)
-```
 
 # How to install using unofficial repositories
 
